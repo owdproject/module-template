@@ -24,9 +24,7 @@ A template for your new Open Web Desktop module.
     ```typescript
     // /desktop/owd.config.ts
     export default defineDesktopConfig({
-        apps: [
-            "owd-module-template",
-        ]
+      apps: ['owd-module-template'],
     })
     ```
 
